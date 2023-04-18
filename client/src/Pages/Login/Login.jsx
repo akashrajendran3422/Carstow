@@ -17,7 +17,9 @@ export const Login = (props) => {
                 <input value={email} onChange={(e) => setEmail(e.target.value)}type="text" placeholder="Email" id="email" name="email"  required />
                 <label htmlFor="Password">PASSWORD</label>
                 <input value={pass} onChange={(e) => setPass(e.target.value)} type="text" placeholder="Password" id="password" name="password"  required />
-                <button className="link-btn" onClick={() => props.onFormSwitch('register')}>Forget password.</button>
+                <body> 
+<a href="https://freetamilebooks.com/ebooks/eliya_tamilil_software_testing/" target="_blank"> Forget Password</a>
+</body> 
                 
 
                  <button type="Submit">LOG IN</button>
