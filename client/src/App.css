@@ -47,5 +47,6 @@ button {
 .link-btn {
   background: none;
   color: rgb(14, 13, 13);
+  text-align: left;
   
 }
